@@ -1,0 +1,22 @@
+Python osc - The Unlicense
+
+https://github.com/attwad/python-osc
+https://github.com/attwad/python-osc/blob/master/LICENSE.txt
+
+Sound device - MIT
+https://github.com/spatialaudio/python-sounddevice
+https://github.com/spatialaudio/python-sounddevice/blob/master/LICENSE
+
+Uses PortAudio - Free Open Source
+http://www.portaudio.com/ 
+
+Stupid Artnet - MIT
+https://github.com/cpvalente/stupidArtnet
+https://github.com/spatialaudio/python-sounddevice/blob/master/LICENSE
+
+Sound file - BSD 3-Clause "New" or "Revised" License 
+https://github.com/bastibe/python-soundfile 
+https://github.com/bastibe/python-soundfile/blob/master/LICENSE
+
+    Uses libsndfile - Free Open Source
+http://www.mega-nerd.com/libsndfile/ 
